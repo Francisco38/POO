@@ -1,0 +1,124 @@
+book,Introdução à Criptografia,2019,500,FCA - Editora de Informática,958-268-181
+adsdbajshdjahdsahdjasdjakdshjahsdhasjdasd,adsadna adksajdjaskmd basjdsakmdk,adsjiaidnakdaisdiajd,admaidiadjkamwdk.aahsdiajwidmwda,aiddwuasndawudjasjdnad
+criptografia,ola,adeus
+nascetur@dei.uc,sem.vitae.aliquam@dei.uc
+
+book,Redes de ordenadores – Capa de Transporte,2019,600,Amazon (e-book),23-43-222
+adushbuaiwbdansidnowadoiajwdjaoiwdhiwjadjoawjdiaj
+Transporte,ordenadores,redes
+aptent@dei.uc,dolor.dapibus.gravida@dei.uc
+
+book,Introduction to Deep Learning Business Applications for Developers: From Conversational Bots in Customer Service to Medical Image Processing,2018,1000,Nature Springer,100-34-356 
+aniadsidaijsdoadsasjdosadjoadjsoasjdoakd asdoajsdo jao oas.dk o.a,sdo ,a
+Intruduction,Learning,Business,Applications
+sit.amet@dei.uc,aleal@dei.uc.pt,aff2011@gmail.com,ajesus@dei.uc.pt
+
+book,Emotions Detection in Music Lyrics using Machine Learning and Keyword-Based Approaches,2018,300,Novas Edições Académicas,234-23-245
+adsijaodij aiojdaiojiodwjoiwajda,adjwijd iajdmaiwdjo,aijdiwadiajdko.adwawdsadwaA,oakdwokakd
+Detection,Emotions,Lyrics
+adlino@dei.uc.pt,jagnelo@student.dei.uc.pt,dabreu@dei.uc.pt
+
+book,A Practical Introduction to Human-in-the-Loop Cyber-Physical Systems,2018,200,John Wiley & Sons Ltd.,344-2345-124
+awdhihwiadiahsd iajiawjd ajwdijaiwdiajwidj aaijd iaj ij wijaid jaij wiaj djoadjkawsd,awdkoa jdw iadkoa.~
+Human-in-the-Loop,Cyber-Physical Systems,Introduction
+jrivadeneira@dei.uc.pt,afnog@dei.uc.pt,nscc@dei.uc.pt
+
+book chapters,Handbook of Research on Autopoiesis and Self-Sustaining Processes for Organizational Success,2021,100,IGI Global,222-222-222,Mining Sociotechnical Patterns of Enterprise Systems With Complex Networks: A Guiding Framework,12,30
+asdijawidjawhdijasidjwiajdaijwiajdiajwidjawidwjiaa
+Autopoiesis,Self-Sustaining
+jcampos@di.estv.ipv.pt,ajesus@dei.uc.pt,cferr@dei.uc.pt
+
+book chapters,Improving Organizational Effectiveness with Enterprise Information Systems,2015,354,IGI Global,123-234-243,Ubiquitous Integration Architectural Issues,32,50
+ahwdiai dawjdiawjidjaiwdia dwih waij dihaIwdh iwahdiwh aih diahdi hwaidjawi hdiah diwah iwh diahdwijdi
+Organizational Effectiveness,Information
+raneves@dei.uc.pt,gcarvalho@dei.uc.pt
+
+book chapters,Informacao e Literacia - Rumos e Perspetivas,2020,132,Imprensa da Universidade de Coimbra,122-123-123,letras para a vida,241,258
+asdjoawjdsodajwjoawjo djaojawjdowajdo ajwodjowajdoaw,daowdoawjdoakowdkaodk.
+Literacia
+aacoelho@student.dei.uc.pt,macedo@dei.uc.pt
+
+book chapters,Human Computer Interaction and Emerging Technologies: Workshop Proceedings from the INTERACT 2019 Workshops,2020,700,Cardiff University Press,7998-2910-2,The Sailboat Exercise as a Method for User Understanding and Requirements Gathering,30,50
+asdewijaiwdjidjawidjiaj jawdjakdoskdoawjdoknsdawidajad
+Computer,Interaction
+adlino@dei.uc.pt
+
+book chapters,Natural Computing Series,2020,360,Springer Singapore,333-232-323,Neuroevolution of Generative Adversarial Networks,293,322
+aduwhdoiajdiwj aowih oiahjdwoih aiwhd iahdwi awhdio haowdih waoih doiadij aoiwdh aiowdjodahwiodh aiwjdoihd iadwh oiawhdio hawio dhioawjdo wahd aihd
+Natural Computing
+jrivadeneira@dei.uc.pt
+
+conference article,Using Deep Q-learning for Optimization of Aircraft Maintenance Scheduling,2020,900,Pattern Recognition,2020,Portugal
+adwijdwaij idjwai jia i ajwid jwaidj aiw jiaw djiawj diawj awjdokaxncbcsuhajwodjajwjd, wiajd akodkawodjkao kaowdka.
+Q-learning for Optimization,Aircraft Maintenance Scheduling
+aleal@dei.uc.pt,aacoelho@student.dei.uc.pt,nulla@dei.uc
+
+conference article,Forecasting Ozone and Nitrogen Oxides for Air Quality Monitoring,2020,1500,Pattern Recognition,2020,Portugual
+awdhiawjdihaiw jdi waijd iwahd iawdi hawidja hdiwaj iahdw ia
+Forecasting Ozone and Nitrogen Oxides,Air Quality Monitoring
+amet.lorem.semper@dei.uc,convallis.convallis.dolor@dei.uc
+
+conference article,Object Detection in Equirectangular Images,2020,500,Pattern Recognition,2020,Portugual
+adwihiawdjajwodakwda
+Detection,Equirectangular,Images
+sit.amet@dei.uc,aleal@dei.uc.pt,aacoelho@student.dei.uc.pt
+
+conference article,Federated approaches for Remaining Useful Life prognosis,2020,600,Pattern Recognition,2020,Portugual
+awdj owaj jawod ja ojdaowo, awdjoj awojdoa ,aowjd oakwodjwaok.
+Remaining,Useful,Life,prognosis
+bicker@dei.uc.pt,antonioc@dei.uc.pt,cferr@dei.uc.pt
+
+conference article,Fire and Smoke recognition in crowdsourced images with YOLO networks,2020,900,Pattern Recognition,2020,Portugual
+adwh ia hiadh ih aidiwjdiah idja ijdaaiwahj iadhiwajdiahdwi haowhdijao
+Fire and Smoke recognition,crowdsourced images
+jcampos@di.estv.ipv.pt,anabela@isec.pt
+
+magazine article,Reductions and Abstractions for Formal Verification of Distributed Round-based Algorithms,2021,700,Springer Software Quality Journal,12/12/2000,11
+ãjdwoawj djaod jawod joadw okwaodaokwdo ajwodja oa jwojdoakk
+Algorithm,Reductions,Abstractions
+sit.amet@dei.uc,aleal@dei.uc.pt
+
+magazine article,GPU-based fast clustering via K-Centres and k-NN mode seeking for geospatial industry applications,2020,300,Computers in Industry,4/10/2021,122
+adowjdoa joaj j ajwodaodwkad. awo kda.wdka .o.ak wokdakwdkaod,w
+GPU-based,K-Centres
+anatr@dei.uc.pt,Suspendisse.eleifend@dei.uc
+
+magazine article,The circulant hash revisited,2020,1000,Journal of Mathematical Cryptology,4/1/2021,1
+adw jaidj iwadji askid wiaj dkkdkdkdkdk dwaij daj idakkkkajdwijaks
+circulant hash
+jparente@dei.uc.pt,raneves@dei.uc.pt
+
+magazine article,Automatic Classification of Adventitious Respiratory Sounds: A (Un)Solved Problem?,2015,250,Sensors,20/12/2000,21
+djdkidjaiodawk j,djwaijdkaoskdolawkdsdlpaw,daowdjoakdwkadpalwdkjaijwdmcmk.amdawkslojf.ddaokwdk,awdjoakkdawmdaowkddaokwodkoakdwkkkkkkkkkk
+Automatic Classification,Respiratory Sounds
+stanleylima@dei.uc.pt,carla@dei.uc.pt,adlino@dei.uc.pt
+
+magazine article,Federated Learning as a Privacy-Providing Machine Learning for Defect Predictions in Smart Manufacturing,2016,1900,Smart and Sustainable Manufacturing Systems,21/13/2000,31
+dawdawdio jaiwdh ahwdih aiwdi awjidhaiwdji awhdiasjdi
+Federated Learning,Privacy-Providing,Machine Learning
+fslopes@student.dei.uc.pt,amaria@dei.uc.pt
+
+conference article book,Emotions Detection in Music Lyrics using Machine Learning and Keyword-Based Approaches,2018,900,Novas edicoes academicas,201-289-45,Pattern Recognition,4
+adhawidj jijdiwj jj i jijwaksij jksojs
+Emotions Detection,Music Lyrics using Machine Learning,Keyword-Based Approaches
+nulla@dei.uc,aacoelho@student.dei.uc.pt,anatr@dei.uc.pt
+
+conference article book,Aprendizagem Computacional em Engenharia,2018,1000,Imprensa da Universidade de Coimbra,900-123-12,Pattern Recognition,7
+adwsjdi j j jj jj j j j jwaidjjaikjd jdjkiaaoudjxiajwidiajidhajw jdi
+Computacional,Engenharia
+anatr@dei.uc.pt,Suspendisse.eleifend@dei.uc,bruna@dei.uc.pt
+
+conference article book,Wireless Public Safety Networks,2017,400,ISTE Press - Elsevier,978-1-78548-053-9,Pattern Recognition,9
+asd jijasidj okadkkakdkakdao kdo koskdoksdak ok
+Wireless,Safety,Networks
+bruna@dei.uc.pt,ajesus@dei.uc.pt,adlino@dei.uc.pt
+
+conference article book,Seguranca Pratica em Sistemas e Redes com Linux,2017,10,FCA Informatica,978-972-722-865-2,Pattern Recognition,2
+adij ijis kdjij dami wkdlao
+Seguranca,Sistemas,Redes,Linux
+carla@dei.uc.pt,convallis.convallis.dolor@dei.uc
+
+conference article book,Redes de Sensores sem Fios,2016,800,FCA – Editora de Informatica Lda.,978-972-722-830-0,Pattern Recognition,1
+okjua ji ijijk okoajd okoawjdi
+Sensores sem Fios,Redes
+carla@dei.uc.pt,convallis.convallis.dolor@dei.uc

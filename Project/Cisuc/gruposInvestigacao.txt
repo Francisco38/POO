@@ -1,0 +1,71 @@
+group,Adaptive Computation,AC,Delilah Peters,nascetur@dei.uc,28,978298029
+effective,Halee Lewis,sem.vitae.aliquam@dei.uc,135,978298028
+student,Francesca Nolan,ipsum.cursus@dei.uc,adeus,12/12/2000
+effective,Jameson Allen,amet.lorem.semper@dei.uc,107,938248928
+student,Thaddeus Cobb,convallis.convallis.dolor@dei.uc,push,10/12/2000
+effective,Odessa Coleman,Lorem.ipsum@dei.uc,71,921131356
+student,Irma Dalton,aptent@dei.uc,intelligence,9/12/2000
+effective,Madaline Hewitt,sit.amet@dei.uc,156,977812570
+student,Callie Eaton,dolor.dapibus.gravida@dei.uc,burst,4/10/2000
+effective,Nash Maldonado,nulla@dei.uc,19,928279379
+student,Blake Vasquez,Suspendisse.eleifend@dei.uc,provision,4/10/2015
+effective,Acton Schroeder,natoque@dei.uc,31,996557713
+
+group,Evolutionary and Complex Systems,ECOS,Nuno Lourenço,naml@dei.uc.pt,27,903537789
+effective,Madaline Hewitt,sit.amet@dei.uc,156,977812570
+student,Adriana Leal,aleal@dei.uc.pt,inflation,5/10/2025
+student,Adriano Del Pino Lino,adlino@dei.uc.pt,ignite,2/5/2021
+student,Alexandre Fernandes,aff2011@gmail.com,false,10/2/2024
+effective,Callie Eaton,dolor.dapibus.gravida@dei.uc,163,922610507
+effective,Nash Maldonado,nulla@dei.uc,19,928279379
+student,Ângela Coelho,aacoelho@student.dei.uc.pt,digress fun define,7/1/2030
+student,Ana Rodrigues,anatr@dei.uc.pt,linger translate funeral,30/3/2010
+effective,Blake Vasquez,Suspendisse.eleifend@dei.uc,122,934147761
+effective,Acton Schroeder,natoque@dei.uc,31,996557713
+
+group,Cognitive and Media Systems,CMS,Penousal Machado,machado@dei.uc.pt,50,921345544
+effective,Luis Macedo,macedo@dei.uc.pt,300,924567342
+student,António Cruz,antonioc@dei.uc.pt,reason temperature calculation,10/20/3000
+effective,João Bicker,bicker@dei.uc.pt,500,911111111
+student,Bruna Sousa,bruna@dei.uc.pt,pierce price dramatic,5/10/2022
+student,Jéssica Araújo Parente,jparente@dei.uc.pt,professor,2/2/2300
+student,Francisco Sampaio Lopes,fslopes@student.dei.uc.pt,hide,1/11/2019
+student,André Rodrigues,andre@iscac.pt,corpse,3/11/2023
+effective,Carlos Bento,bento@dei.uc.pt,345,919999999
+effective,Antonio Jose Mendes,toze@dei.uc.pt,214,929394909
+effective,Ana Maria Carvalho de Almeida,amaria@dei.uc.pt,142,900000000
+
+group,Information Systems,IS,Licínio Roque,lir@dei.uc.pt,27,902020202
+student,Alexandre D. Jesus,ajesus@dei.uc.pt,quote,8/1/2030
+effective,Catarina Ferreira da Silva,cferr@dei.uc.pt,21,983243324
+effective,Rui Craveirinha,raneves@dei.uc.pt,38,920387432
+effective,António José Abreu da Silva,aabreu@iscap.ipp.pt,400,983234567
+student,Adriano Del Pino Lino,adlino@dei.uc.pt,snack,39/12/2400
+student,José Campos,jcampos@di.estv.ipv.pt,lump,20/8/2035
+student,Stanley Lima,stanleylima@dei.uc.pt,crash,15/4/2029
+student,Nuno Castelhano,nscc@dei.uc.pt,prestige,3/5/2040
+effective,Anabela Jesus Gomes,anabela@isec.pt,245,902334567
+effective,Carla Patrão,carla@dei.uc.pt,37569,928777432
+
+group,Software and Systems Engineering,SSE,Henrique Madeira,henrique@dei.uc.pt,467,901223456
+effective,Fernando Barros,barros@dei.uc.pt,42,987655322
+student,Ana Filipa Nogueira,afnog@dei.uc.pt,main,6/10/2018
+student,Inês Filipa Rente Valentim,valentim@student.dei.uc.pt,overwhelm,30/12/2030
+effective,João Carlos Cunha,jcunha@dei.uc.pt,13,923413456
+student,João Agnelo,jagnelo@student.dei.uc.pt,collapse,11/4/2025
+effective,José Carlos Coelho Martins da Fonseca,josefonseca@ipg.pt,89,923457098
+student,João Rodrigues Campos,jrcampos@dei.uc.pt,thesis,24/8/2040
+effective,Marco Vieira,mvieira@dei.uc.pt,345,931425876
+student,Gonçalo Carvalho,gcarvalho@dei.uc.pt,text,15/10/2050
+
+group,Communications and Telematics,LCT,Paulo Simões,psimoes@dei.uc.pt,142,988888888
+effective,André Rodrigues,andre@iscac.pt,123,985555555
+student,David Abreu,dabreu@dei.uc.pt,week,15/11/2300
+student,David Henrique de Souza Lima,dhlima@dei.uc.pt,mess,11/7/2040
+student,Jorge Eduardo Rivadeneira,jrivadeneira@dei.uc.pt,staff,9/12/2030
+effective,Tiago Cruz,tjcruz@dei.uc.pt,987,911211211
+effective,Paulo Simões,psimoes@dei.uc.pt,1,988088000
+effective,Filipe Caldeira,caldeira@di.estv.ipv.pt,3,911233333
+effective,Vasco Pereira,vasco@dei.uc.pt,6,913133133
+student,João T. Fernandes,joaonf@dei.uc.pt,election,3/12/2025
+student,João Henriques,jpmh@dei.uc.pt,conversation,5/9/2027
